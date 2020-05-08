@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Peace of Mind",
+        "img": "",
+        "description": "You’re safe with us. The privacy and security of your financial information is our top priority.",
+        "href": ""
+    },
+    {
+        "id": 2,
+        "title": "Free Actually free",
+        "img": "",
+        "description": "No more pricing grids. No more fine print. Sending and receiving cash is free without gimmicks.",
+        "href": ""
+    },
+    {
+        "id": 3,
+        "title": "Simple payments",
+        "img": "",
+        "description": "The same debit card you use to buy coffee lets deposit money straight to your bank account.",
+        "href": ""
+    },
+    {
+        "id": 4,
+        "title": "Peace of Mind",
+        "img": "",
+        "description": "You’re safe with us. The privacy and security of your financial information is our top priority.",
+        "href": ""
+    },
+    {
+        "id": 5,
+        "title": "Free Actually free",
+        "img": "",
+        "description": "No more pricing grids. No more fine print. Sending and receiving cash is free without gimmicks.",
+        "href": ""
+    },
+    {
+        "id": 6,
+        "title": "Simple payments",
+        "img": "",
+        "description": "The same debit card you use to buy coffee lets deposit money straight to your bank account.",
+        "href": ""
+    }
+]
