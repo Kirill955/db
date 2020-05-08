@@ -2,43 +2,43 @@
     {
         "id": 1,
         "title": "Peace of Mind",
-        "img": "",
+        "img": "https://promdevelop.ru/wp-content/uploads/2020/02/roundtable-meeting.jpg",
         "description": "You’re safe with us. The privacy and security of your financial information is our top priority.",
-        "href": ""
+        "href": "#"
     },
     {
         "id": 2,
         "title": "Free Actually free",
-        "img": "",
+        "img": "https://promdevelop.ru/wp-content/uploads/2020/02/roundtable-meeting.jpg",
         "description": "No more pricing grids. No more fine print. Sending and receiving cash is free without gimmicks.",
-        "href": ""
+        "href": "#"
     },
     {
         "id": 3,
         "title": "Simple payments",
-        "img": "",
+        "img": "https://promdevelop.ru/wp-content/uploads/2020/02/roundtable-meeting.jpg",
         "description": "The same debit card you use to buy coffee lets deposit money straight to your bank account.",
-        "href": ""
+        "href": "#"
     },
     {
         "id": 4,
         "title": "Peace of Mind",
-        "img": "",
+        "img": "https://promdevelop.ru/wp-content/uploads/2020/02/roundtable-meeting.jpg",
         "description": "You’re safe with us. The privacy and security of your financial information is our top priority.",
-        "href": ""
+        "href": "#"
     },
     {
         "id": 5,
         "title": "Free Actually free",
-        "img": "",
+        "img": "https://promdevelop.ru/wp-content/uploads/2020/02/roundtable-meeting.jpg",
         "description": "No more pricing grids. No more fine print. Sending and receiving cash is free without gimmicks.",
-        "href": ""
+        "href": "#"
     },
     {
         "id": 6,
         "title": "Simple payments",
-        "img": "",
+        "img": "https://promdevelop.ru/wp-content/uploads/2020/02/roundtable-meeting.jpg",
         "description": "The same debit card you use to buy coffee lets deposit money straight to your bank account.",
-        "href": ""
+        "href": "#"
     }
 ]
