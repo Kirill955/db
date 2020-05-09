@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Joey",
+        "position": "Web developer",
+        "description": "Coffee lover.  Always on bike. iPhone fan.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeAHhQWGJ7ZNGHpbb92g5ii4fsUl6mA8HLMMzTNbpL2fV2zApb&usqp=CAU"
+    },
+    {
+        "name": "Matt",
+        "position": "Web designer",
+        "description": "MTB Biker. Photoshop Master. Loving Father.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGdHokQq0OgLa9AGhkv1yoNDCVhStXFE7Ts2g7TbLjj03U6iCS&usqp=CAU"
+    },
+    {
+        "name": "Mike",
+        "position": "Copywriter",
+        "description": "Drummer. Soup lover. Beer Drinker. Cyclist.",
+        "img": "https://integranta.ru/upload/iblock/64c/slamdot-copywriting-screen-1024x477%20%281%29.jpg"
+    },
+    {
+        "name": "Joey",
+        "position": "Web developer",
+        "description": "Coffee lover.  Always on bike. iPhone fan.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeAHhQWGJ7ZNGHpbb92g5ii4fsUl6mA8HLMMzTNbpL2fV2zApb&usqp=CAU"
+    },
+    {
+        "name": "Matt",
+        "position": "Web designer",
+        "description": "MTB Biker. Photoshop Master. Loving Father.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGdHokQq0OgLa9AGhkv1yoNDCVhStXFE7Ts2g7TbLjj03U6iCS&usqp=CAU"
+    },
+    {
+        "name": "Mike",
+        "position": "Copywriter",
+        "description": "Drummer. Soup lover. Beer Drinker. Cyclist.",
+        "img": "https://integranta.ru/upload/iblock/64c/slamdot-copywriting-screen-1024x477%20%281%29.jpg"
+    },
+    {
+        "name": "Joey",
+        "position": "Web developer",
+        "description": "Coffee lover.  Always on bike. iPhone fan.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeAHhQWGJ7ZNGHpbb92g5ii4fsUl6mA8HLMMzTNbpL2fV2zApb&usqp=CAU"
+    },
+    {
+        "name": "Matt",
+        "position": "Web designer",
+        "description": "MTB Biker. Photoshop Master. Loving Father.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGdHokQq0OgLa9AGhkv1yoNDCVhStXFE7Ts2g7TbLjj03U6iCS&usqp=CAU"
+    },
+    {
+        "name": "Mike",
+        "position": "Copywriter",
+        "description": "Drummer. Soup lover. Beer Drinker. Cyclist.",
+        "img": "https://integranta.ru/upload/iblock/64c/slamdot-copywriting-screen-1024x477%20%281%29.jpg"
+    }
+]
